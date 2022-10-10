@@ -1,3 +1,21 @@
+**INSTRUCTIONS**
+
+1. Host the data.json file to json server so that it behaves like an API
+
+```
+npx json-server --watch data/data.json --port 8000
+```
+
+2. On a separate terminal, start the React project
+```
+npm start
+```
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

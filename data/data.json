@@ -1,0 +1,87 @@
+{
+  "database":[
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ea",
+    "name": "Brian",
+    "gender": "Male",
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "GB",
+    "type": "Neural"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269eb",
+    "name": "Celine",
+    "gender": "Female",
+    "language": "French",
+    "languageCode": "fr",
+    "countryCode": "FR",
+    "type": "Standard"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ec",
+    "name": "Aditi",
+    "gender": "Female",
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "IN",
+    "type": "Standard"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ed",
+    "name": "Justin",
+    "gender": "Male",
+    "isChild": true,
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "US",
+    "type": "Neural"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ee",
+    "name": "Seoyeon",
+    "gender": "Female",
+    "language": "Korean",
+    "languageCode": "ko",
+    "countryCode": "KR",
+    "type": "Standard"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ef",
+    "name": "Ivy",
+    "gender": "Female",
+    "isChild": true,
+    "language": "English",
+    "languageCode": "en",
+    "countryCode": "US",
+    "type": "Neural"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269aa",
+    "name": "Cristiano",
+    "gender": "Male",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "PT",
+    "type": "Standard"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ab",
+    "name": "Vitoria",
+    "gender": "Female",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "BR",
+    "type": "Standard"
+  },
+  {
+    "id": "0017ec82-511d-4c3a-9a16-27343aa269ac",
+    "name": "Vitoria",
+    "gender": "Female",
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "countryCode": "BR",
+    "type": "Neural"
+  }
+]
+}
